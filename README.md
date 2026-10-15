@@ -1,4 +1,4 @@
-### Effect of Nitrate and Phosphate Starvation on *P.globosa*: Growth, Photosynthetic Performance, and Molecular Response
+# Effect of Nitrate and Phosphate Starvation on *P.globosa*: Growth, Photosynthetic Performance, and Molecular Response
 
 ## Quick Access:
 Please click the link below to check my latest version of paper:)
